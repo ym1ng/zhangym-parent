@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zhangym-common" />
+        <module name="zhangym-persistence" />
+        <module name="zhangym-service" />
+        <module name="zhangym-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zhangym-common" target="1.8" />
+      <module name="zhangym-parent" target="1.8" />
+      <module name="zhangym-persistence" target="1.8" />
+      <module name="zhangym-service" target="1.8" />
+      <module name="zhangym-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

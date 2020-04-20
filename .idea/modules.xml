@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../zhangym-parent/zhangym-common/zhangym-common.iml" filepath="$PROJECT_DIR$/../zhangym-parent/zhangym-common/zhangym-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhangym-parent.iml" filepath="$PROJECT_DIR$/zhangym-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zhangym-parent/zhangym-persistence/zhangym-persistence.iml" filepath="$PROJECT_DIR$/../zhangym-parent/zhangym-persistence/zhangym-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zhangym-parent/zhangym-service/zhangym-service.iml" filepath="$PROJECT_DIR$/../zhangym-parent/zhangym-service/zhangym-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zhangym-parent/zhangym-web/zhangym-web.iml" filepath="$PROJECT_DIR$/../zhangym-parent/zhangym-web/zhangym-web.iml" />
+    </modules>
+  </component>
+</project>
